@@ -1,1 +1,2 @@
 hello basel
+hi this is new command
